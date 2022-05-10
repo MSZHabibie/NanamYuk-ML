@@ -1,2 +1,2 @@
 # NanamYuk-ML
-Bangkit Capstone Project. Product Based. Team C22-PS316
+ML Part of Product Based Bangkit Capstone Project Team C22-PS316
